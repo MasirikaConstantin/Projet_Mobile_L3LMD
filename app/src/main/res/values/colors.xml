@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="colorAccent">#81C784</color>
+    <color name="colorPrimary">#FF0000</color>
+    <color name="monBack">#64B5F6</color>
+    <color name="monBackProf">#d9ad83</color>
+
+</resources>

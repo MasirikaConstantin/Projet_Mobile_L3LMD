@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "280005442244",
+    "firebase_url": "https://pmobile-84839-default-rtdb.firebaseio.com",
+    "project_id": "pmobile-84839",
+    "storage_bucket": "pmobile-84839.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:280005442244:android:4f306beec2b1036e08a791",
+        "android_client_info": {
+          "package_name": "com.example.ouvrier"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBZwxmux2_RRIOO1ZYo3OCI3HX2joixf5I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

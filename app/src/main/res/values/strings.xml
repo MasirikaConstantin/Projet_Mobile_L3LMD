@@ -1,0 +1,34 @@
+<resources>
+    <string name="app_name">Ouvrier</string>
+    <string name="action_settings">Settings</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="Titre">Renseignement</string>
+
+    <string name="connexion">Se Connecter</string>
+    <string name="connexions"><u>Se Connecter</u></string>
+
+    <string name="email">Adresse Mail</string>
+    <string name="secoici">Vous avez un Compte ? <u>Se Connecter</u></string>
+    <string name="newici">Vous êtes nouveau ici ? <u>Créer un Compte</u></string>
+    <string name="nom">Nom</string>
+    <string name="post">Post - Nom</string>
+    <string name="prenom">Prénom</string>
+    <string name="num">Numéro de télephone</string>
+    <string name="adresse">Adresse</string>
+    <string name="mdp">Mot de Passe</string>
+    <string name="news">Créer Compte</string>
+    <string name="creer_utilisateur">Créer un <u>Compte Utilisateur</u> </string>
+    <string name="creer_prof">Créer un <u>Compte Professionel</u> </string>
+    <string name="ignorer">Ignorer</string>
+    <string name="stat">Station Professionnel</string>
+    <string name="action_deconnexion">Deconnexion</string>
+    <string name="retour">Retour</string>
+    <string name="contactermoi">Contacter le au  :</string>
+    <string name="monprofil">Mon Profil</string>
+    <string name="adresseP">Adresse Postale</string>
+    <string name="profile_image">Image de profile</string>
+    <string name="cliquer_sur">"Cliquez sur le numéro pour l'appeler "</string>
+    <string name="envoyer_mail">Envoyer un mail</string>
+    <string name="envoyer_sms">Envoyer un SMS</string>
+    <string name="change_language">Changer de langue</string>
+</resources>

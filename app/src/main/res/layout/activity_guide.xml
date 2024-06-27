@@ -1,0 +1,306 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".Guide">
+
+
+
+
+    <androidx.core.widget.NestedScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_marginStart="1dp"
+        android:layout_marginTop="1dp"
+        android:layout_marginEnd="1dp"
+        android:layout_marginBottom="1dp"
+        android:fillViewport="true"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical"
+            android:layout_marginBottom="30dp">
+            <TextView
+                android:id="@+id/textVgvviceew10"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginStart="12dp"
+                android:layout_marginTop="30dp"
+                android:fontFamily="@font/mapolicegrand"
+                android:text="Les créateurs" />
+            <TextView
+                android:id="@+id/textVgdevviceew10"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginStart="12dp"
+                android:layout_marginTop="30dp"
+                android:fontFamily="@font/mapolicegrand"
+                android:text="1.  KALEMBU MASIRIKA CONSTANTIN \n 2.AKONKWA CHENYANGE SAMY \n 3. KIMBUNGU SIMÉON GÉDÉON \n 4.  LUABEYA MIKENDI BARNABÉ \n 5.  MBUYI MUTUNGILAYI BENJAMIN  \n 6.  LUANDA  MURAIRI BERNARD  \n  7.  ASHA KUMBU ALLIANCE  \n 8.  BONGHA MPANZIMU MARNHELY \n 9.  MINSIENSI N'SIMBA PATRICK  \n 10.  KAZADI KABUYA AUGUSTIN \n 11.  MANGOMO MUNGBALANGO PETER
+                    " />
+
+
+            <TextView
+                android:id="@+id/textView4"
+                android:layout_width="339dp"
+                android:layout_height="wrap_content"
+                android:fontFamily="@font/mapolicegrand"
+                android:text=" 1.  Page d'accuel"
+                android:textSize="25dp"
+                app:layout_constraintBottom_toBottomOf="parent"
+                app:layout_constraintEnd_toEndOf="parent"
+                app:layout_constraintHorizontal_bias="0.115"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintTop_toTopOf="parent"
+                app:layout_constraintVertical_bias="0.111" />
+
+            <ImageView
+                android:id="@+id/imageView7"
+                android:layout_width="367dp"
+                android:layout_height="527dp"
+                android:layout_marginTop="23dp"
+                android:src="@drawable/captureone" />
+
+            <TextView
+                android:id="@+id/textView10"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginStart="12dp"
+                android:layout_marginTop="30dp"
+                android:fontFamily="@font/mapolice"
+                android:text="Cette partie propose à l'utlisateur un moyen de se connecter \n ou de créer un compte soit utilisateur ou Professionnel \n (pour les ouvriers)   " />
+
+
+            <TextView
+                android:id="@+id/textVgvview10"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginStart="12dp"
+                android:layout_marginTop="30dp"
+                android:fontFamily="@font/mapolicegrand"
+                android:text="Une fois cliqué sur une option :   " />
+
+            <TextView
+                android:id="@+id/textuyvuyView10"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginStart="12dp"
+                android:layout_marginTop="30dp"
+                android:fontFamily="@font/mapolicegrand"
+                android:text="a)  Page de connexion utilisateur :  " />
+
+            <ImageView
+                android:id="@+id/coco"
+                android:layout_width="367dp"
+                android:layout_height="527dp"
+                android:layout_marginTop="23dp"
+                android:src="@drawable/capturtwo" />
+            <TextView
+                android:id="@+id/texkhvhktView10"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginStart="12dp"
+                android:layout_marginTop="30dp"
+                android:fontFamily="@font/mapolice"
+                android:text="Dans cette page vous serez invité à mettre vos identifients(email et mot de passe) existant si non vous serez envoyé vers la page de création compte   " />
+
+            <TextView
+                android:id="@+id/textuyvuyView10e"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginStart="12dp"
+                android:layout_marginTop="30dp"
+                android:fontFamily="@font/mapolicegrand"
+                android:text="b)  Page de créer compte :  " />
+
+
+            <ImageView
+                android:id="@+id/cocodede"
+                android:layout_width="367dp"
+                android:layout_height="527dp"
+                android:layout_marginTop="23dp"
+                android:src="@drawable/capturetree" />
+            <TextView
+                android:id="@+id/texuhtView10"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginStart="12dp"
+                android:layout_marginTop="30dp"
+                android:fontFamily="@font/mapolice"
+                android:text="Dans cette page on aura que besoins de vos informations au complet   " />
+
+
+            <TextView
+                android:id="@+id/texuhtView1de0"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginStart="12dp"
+                android:layout_marginTop="30dp"
+                android:fontFamily="@font/mapolice"
+                android:text="Cette même procedure est valable pour les ouviers" />
+
+
+            <TextView
+                android:id="@+id/texuhtView10fv"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginStart="12dp"
+                android:layout_marginTop="30dp"
+                android:fontFamily="@font/mapolicegrand"
+                android:text="- En cas de connexion utilisateur on a : " />
+
+
+            <ImageView
+                android:id="@+id/cocodeddedee"
+                android:layout_width="367dp"
+                android:layout_height="527dp"
+                android:layout_marginTop="23dp"
+                android:src="@drawable/capturefor" />
+
+
+            <TextView
+                android:id="@+id/texuhtViewcfc10"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginStart="12dp"
+                android:layout_marginTop="30dp"
+                android:fontFamily="@font/mapolice"
+                android:text="Dans cette Partie on a possiblité de cliqué sur un ouvrier voulue en vue de le contacter ou bien de voir son compte \n dans un autre cas dans le menu vous pouvez vous deconnecter  " />
+
+            <TextView
+                android:id="@+id/texucjdhtView10"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginStart="12dp"
+                android:layout_marginTop="30dp"
+                android:fontFamily="@font/mapolice"
+                android:text="En l'ouverture de mon compte on a: " />
+
+            <TextView
+                android:id="@+id/texucjdhtView1de0"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginStart="12dp"
+                android:layout_marginTop="30dp"
+                android:fontFamily="@font/mapolicegrand"
+                android:text="Cliquer sur l'image pour changer de profil \n Etape 1 " />
+
+
+            <ImageView
+                android:id="@+id/AZERTY"
+                android:layout_width="367dp"
+                android:layout_height="527dp"
+                android:layout_marginTop="23dp"
+                android:src="@drawable/profilone" />
+            <TextView
+                android:id="@+id/texucjdhdetView1de0"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginStart="12dp"
+                android:layout_marginTop="30dp"
+                android:fontFamily="@font/mapolicegrand"
+                android:text="Proposition de  la méthode Etape 2  " />
+
+            <ImageView
+                android:id="@+id/AZERTYde"
+                android:layout_width="367dp"
+                android:layout_height="527dp"
+                android:layout_marginTop="23dp"
+                android:src="@drawable/profiletwo" />
+
+
+            <TextView
+                android:id="@+id/texucjdhdetViededw1de0"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginStart="12dp"
+                android:layout_marginTop="30dp"
+                android:fontFamily="@font/mapolicegrand"
+                android:text="Choisir une image Etape 3 " />
+
+            <ImageView
+                android:id="@+id/AZERTdedeYde"
+                android:layout_width="367dp"
+                android:layout_height="527dp"
+                android:layout_marginTop="23dp"
+                android:src="@drawable/choisir" />
+
+            <TextView
+                android:id="@+id/texucjdedhdetViededededw1de0"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginStart="12dp"
+                android:layout_marginTop="30dp"
+                android:fontFamily="@font/mapolicegrand"
+                android:text="Croper  l'image choisie Etape 3 " />
+
+            <ImageView
+                android:id="@+id/AZERdeTdzdedeYde"
+                android:layout_width="367dp"
+                android:layout_height="527dp"
+                android:layout_marginTop="23dp"
+                android:src="@drawable/profiltree" />
+
+
+            <TextView
+                android:id="@+id/texucjdhdetViedededededw1de0"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginStart="12dp"
+                android:layout_marginTop="30dp"
+                android:fontFamily="@font/mapolicegrand"
+                android:text="Previsualistion " />
+
+            <ImageView
+                android:id="@+id/AZERdeTdedeYde"
+                android:layout_width="367dp"
+                android:layout_height="527dp"
+                android:layout_marginTop="23dp"
+                android:src="@drawable/profilone" />
+            <TextView
+                android:id="@+id/texucjdhdetdeViedededededw1de0"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginStart="12dp"
+                android:layout_marginTop="30dp"
+                android:fontFamily="@font/mapolicegrand"
+
+                android:text="Appuyer sur le Modifier la photo pour enregistrer " />
+
+            <TextView
+                android:id="@+id/texucjdhdetde"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginStart="12dp"
+                android:layout_marginTop="35dp"
+                android:fontFamily="@font/mapolicegrand"
+
+                android:text="- Partie Ouvrier" />
+
+            <ImageView
+                android:id="@+id/AZERdeTdedceYde"
+                android:layout_width="367dp"
+                android:layout_height="527dp"
+                android:layout_marginTop="23dp"
+                android:src="@drawable/ouv" />
+
+            <TextView
+                android:id="@+id/texucjddehdetde"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginStart="12dp"
+                android:layout_marginTop="25dp"
+                android:fontFamily="@font/mapolicegrand"
+
+                android:text="Vous aves toutes les possiblités" />
+
+
+        </LinearLayout>
+    </androidx.core.widget.NestedScrollView>
+</androidx.constraintlayout.widget.ConstraintLayout>
