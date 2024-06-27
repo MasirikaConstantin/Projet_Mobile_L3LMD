@@ -176,8 +176,3 @@ Cette application mobile a pour but de résoudre un problème concret rencontré
 
 ---
 
-Je vais maintenant créer le document Word pour vous.
-
-J'ai créé le document explicatif de l'application mobile de mise en relation avec les ouvriers en utilisant Java et Android Studio. Vous pouvez télécharger le fichier Word en cliquant sur le lien ci-dessous :
-
-[Explication_Application_Ouvrier.docx](sandbox:/mnt/data/Explication_Application_Ouvrier.docx)
