@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-07-02T17:17:13.135Z" agent="Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:127.0) Gecko/20100101 Firefox/127.0" etag="VS77eZavcM7crwqqfsXv" version="24.4.7" type="github">
+<mxfile host="app.diagrams.net" modified="2024-07-02T17:19:03.103Z" agent="Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:127.0) Gecko/20100101 Firefox/127.0" etag="25I-NPuTZRm4tMu1MCFB" version="24.4.7" type="github">
   <diagram name="Page-1" id="2YBvvXClWsGukQMizWep">
     <mxGraphModel dx="1674" dy="790" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -71,14 +71,35 @@
             <mxPoint x="276" y="199" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="kJeLLSi_RfSuqpP4eZGx-18" value="&lt;div&gt;Affiche Créer Compte&lt;/div&gt;" style="html=1;verticalAlign=bottom;endArrow=block;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;" edge="1" parent="1" target="kJeLLSi_RfSuqpP4eZGx-1">
+        <mxCell id="kJeLLSi_RfSuqpP4eZGx-18" value="&lt;div&gt;Affiche Créer Compte&lt;/div&gt;" style="html=1;verticalAlign=bottom;endArrow=block;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="285" y="210" as="sourcePoint" />
+            <mxPoint x="281" y="210" as="sourcePoint" />
             <Array as="points">
-              <mxPoint x="370" y="210" />
+              <mxPoint x="366" y="210" />
             </Array>
-            <mxPoint x="465" y="210" as="targetPoint" />
+            <mxPoint x="505.5" y="210" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="kJeLLSi_RfSuqpP4eZGx-20" value="Entrer les informations " style="html=1;verticalAlign=bottom;endArrow=block;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="285" y="238" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="360" y="238" />
+            </Array>
+            <mxPoint x="504.5" y="238" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="kJeLLSi_RfSuqpP4eZGx-21" value="Affiche (Accueille)" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="292" y="270" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="387" y="270" />
+            </Array>
+            <mxPoint x="506.5" y="270" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="kJeLLSi_RfSuqpP4eZGx-19" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="1">
+          <mxGeometry x="282" y="235" width="10" height="44" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
