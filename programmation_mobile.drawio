@@ -1,16 +1,16 @@
-<mxfile host="app.diagrams.net" modified="2024-07-02T17:38:21.294Z" agent="Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:127.0) Gecko/20100101 Firefox/127.0" etag="P3BxkCbX6qidUr2ojP3H" version="24.4.7" type="github">
+<mxfile host="app.diagrams.net" modified="2024-07-02T17:40:21.143Z" agent="Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:127.0) Gecko/20100101 Firefox/127.0" etag="jQfXxj2K8I8jJ8Kro5PR" version="24.4.7" type="github">
   <diagram name="Page-1" id="2YBvvXClWsGukQMizWep">
     <mxGraphModel dx="1674" dy="790" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="kJeLLSi_RfSuqpP4eZGx-26" value="Affiche confirmation" style="html=1;verticalAlign=bottom;endArrow=block;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;" edge="1" parent="1">
+        <mxCell id="kJeLLSi_RfSuqpP4eZGx-26" value="Stocker le token et rediriger" style="html=1;verticalAlign=bottom;endArrow=block;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;" edge="1" parent="1">
           <mxGeometry x="0.2865" relative="1" as="geometry">
-            <mxPoint x="195" y="443" as="sourcePoint" />
+            <mxPoint x="195" y="501" as="sourcePoint" />
             <Array as="points">
-              <mxPoint x="280" y="443" />
+              <mxPoint x="280" y="501" />
             </Array>
-            <mxPoint x="94.5" y="443" as="targetPoint" />
+            <mxPoint x="94.5" y="501" as="targetPoint" />
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
@@ -118,13 +118,14 @@
             <mxPoint x="734.5" y="286" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="kJeLLSi_RfSuqpP4eZGx-23" value="Réponse succès" style="html=1;verticalAlign=bottom;endArrow=block;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;" edge="1" parent="1" target="aM9ryv3xv72pqoxQDRHE-6">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="428" y="315" as="sourcePoint" />
+        <mxCell id="kJeLLSi_RfSuqpP4eZGx-23" value="Réponse succès" style="html=1;verticalAlign=bottom;endArrow=block;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;" edge="1" parent="1">
+          <mxGeometry x="0.2833" y="-5" relative="1" as="geometry">
+            <mxPoint x="428" y="316" as="sourcePoint" />
             <Array as="points">
-              <mxPoint x="503" y="315" />
+              <mxPoint x="503" y="316" />
             </Array>
-            <mxPoint x="231.5" y="315" as="targetPoint" />
+            <mxPoint x="285" y="316" as="targetPoint" />
+            <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="kJeLLSi_RfSuqpP4eZGx-25" value="POST (/api/auth/signup)" style="html=1;verticalAlign=bottom;endArrow=block;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;" edge="1" parent="1">
@@ -161,6 +162,26 @@
               <mxPoint x="592" y="434" />
             </Array>
             <mxPoint x="736.5" y="434" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="kJeLLSi_RfSuqpP4eZGx-30" value="Reçois les informations (TOKEN)" style="html=1;verticalAlign=bottom;endArrow=block;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;" edge="1" parent="1">
+          <mxGeometry x="0.2833" y="-5" relative="1" as="geometry">
+            <mxPoint x="428" y="464" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="503" y="464" />
+            </Array>
+            <mxPoint x="285" y="464" as="targetPoint" />
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="kJeLLSi_RfSuqpP4eZGx-31" value="Affiche confirmation" style="html=1;verticalAlign=bottom;endArrow=block;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;" edge="1" parent="1">
+          <mxGeometry x="0.2865" relative="1" as="geometry">
+            <mxPoint x="194" y="564" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="279" y="564" />
+            </Array>
+            <mxPoint x="93.5" y="564" as="targetPoint" />
+            <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
       </root>
