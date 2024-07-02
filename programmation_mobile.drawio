@@ -1,11 +1,21 @@
-<mxfile host="app.diagrams.net" modified="2024-07-02T17:35:19.514Z" agent="Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:127.0) Gecko/20100101 Firefox/127.0" etag="BgfouzvE3coBs8fCEdEP" version="24.4.7" type="github">
+<mxfile host="app.diagrams.net" modified="2024-07-02T17:38:21.294Z" agent="Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:127.0) Gecko/20100101 Firefox/127.0" etag="P3BxkCbX6qidUr2ojP3H" version="24.4.7" type="github">
   <diagram name="Page-1" id="2YBvvXClWsGukQMizWep">
     <mxGraphModel dx="1674" dy="790" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="kJeLLSi_RfSuqpP4eZGx-26" value="Affiche confirmation" style="html=1;verticalAlign=bottom;endArrow=block;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;" edge="1" parent="1">
+          <mxGeometry x="0.2865" relative="1" as="geometry">
+            <mxPoint x="195" y="443" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="280" y="443" />
+            </Array>
+            <mxPoint x="94.5" y="443" as="targetPoint" />
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="kJeLLSi_RfSuqpP4eZGx-24" value="Affiche confirmation" style="html=1;verticalAlign=bottom;endArrow=block;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;" edge="1" parent="1">
-          <mxGeometry x="0.2569" y="-10" relative="1" as="geometry">
+          <mxGeometry x="0.2865" relative="1" as="geometry">
             <mxPoint x="194" y="340" as="sourcePoint" />
             <Array as="points">
               <mxPoint x="279" y="340" />
@@ -124,6 +134,33 @@
               <mxPoint x="363" y="259" />
             </Array>
             <mxPoint x="502.5" y="259" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="kJeLLSi_RfSuqpP4eZGx-27" value="Entrer les informations " style="html=1;verticalAlign=bottom;endArrow=block;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="96" y="384" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="171" y="384" />
+            </Array>
+            <mxPoint x="270" y="384" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="kJeLLSi_RfSuqpP4eZGx-28" value="POST (/api/auth/login)" style="html=1;verticalAlign=bottom;endArrow=block;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="286" y="398" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="362" y="398" />
+            </Array>
+            <mxPoint x="501.5" y="398" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="kJeLLSi_RfSuqpP4eZGx-29" value="Vérifie l&#39;Utilisateur " style="html=1;verticalAlign=bottom;endArrow=block;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="517" y="434" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="592" y="434" />
+            </Array>
+            <mxPoint x="736.5" y="434" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
