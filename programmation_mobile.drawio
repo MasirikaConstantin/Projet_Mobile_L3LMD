@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-07-02T17:45:28.054Z" agent="Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:127.0) Gecko/20100101 Firefox/127.0" etag="WD4Xj4rffQhHlSm4w65q" version="24.4.7" type="github">
+<mxfile host="app.diagrams.net" modified="2024-07-02T17:47:15.531Z" agent="Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:127.0) Gecko/20100101 Firefox/127.0" etag="plilYa_osutirRJse7sl" version="24.4.7" type="github">
   <diagram name="Page-1" id="2YBvvXClWsGukQMizWep">
     <mxGraphModel dx="1674" dy="790" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -227,6 +227,24 @@
               <mxPoint x="361" y="700" />
             </Array>
             <mxPoint x="500.5" y="700" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="kJeLLSi_RfSuqpP4eZGx-39" value="Clique sur mon compte" style="html=1;verticalAlign=bottom;endArrow=block;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="97" y="730" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="172" y="730" />
+            </Array>
+            <mxPoint x="271" y="730" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="kJeLLSi_RfSuqpP4eZGx-40" value="Affiche les données de l&#39;utilisateur connecté" style="html=1;verticalAlign=bottom;endArrow=block;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="285" y="750" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="361" y="750" />
+            </Array>
+            <mxPoint x="500.5" y="750" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
