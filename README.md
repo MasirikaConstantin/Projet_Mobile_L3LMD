@@ -1,8 +1,6 @@
+#GROUPE N° 3
 # Projet_Mobile_L3LMD
 
-Voici le document expliquant les choix effectués et la modélisation de l'application mobile développée pour rechercher ou contacter un ouvrier en utilisant Java et Android Studio.
-
----
 
 # Document Explicatif : Choix et Modélisation de l'Application Mobile de Mise en Relation avec les Ouvriers
 
